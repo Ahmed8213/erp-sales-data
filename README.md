@@ -12,7 +12,7 @@ This project is an end-to-end Data Analytics pipeline. It transforms raw ERP sal
 ## 📊 Dashboard Overview
 
 ### Page 1: Executive Dashboard
-![Main Dashboard](/images/erp%201.png)
+![Main Dashboard](C:\temp\Data Analytics and  (AI) Studies\erp sales data\images)
 This is the mission control for the ERP sales data. It provides an immediate overview of business performance, highlighting key metrics and trends at a glance to support data-driven decision-making.
 
 ### Page 2: Sales Performance
