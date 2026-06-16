@@ -16,7 +16,7 @@ This project is an end-to-end Data Analytics pipeline. It transforms raw ERP sal
 This is the mission control for the ERP sales data. It provides an immediate overview of business performance, highlighting key metrics and trends at a glance to support data-driven decision-making.
 
 ### Page 2: Sales Performance
-![Sales Performance](<img width="1411" height="848" alt="erp 1" src="https://github.com/user-attachments/assets/d87f2b3c-9419-432f-9c8c-2c8bb0adbcb5" />)
+![Sales Performance](C:/temp/Data Analytics and  (AI) Studies/erp sales data\images/erp 1.png)
 This page offers a detailed breakdown of revenue distribution across stores and product categories, allowing for a granular analysis of sales performance by location and inventory type.
 
 ### Page 3: Data Quality & KPI Tracking
